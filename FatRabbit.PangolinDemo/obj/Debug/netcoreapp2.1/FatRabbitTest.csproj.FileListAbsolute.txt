@@ -1,0 +1,14 @@
+E:\web\github\FatRabbit\FatRabbitTest\obj\Debug\netcoreapp2.1\FatRabbitTest.csprojAssemblyReference.cache
+E:\web\github\FatRabbit\FatRabbitTest\obj\Debug\netcoreapp2.1\FatRabbitTest.csproj.CoreCompileInputs.cache
+E:\web\github\FatRabbit\FatRabbitTest\obj\Debug\netcoreapp2.1\FatRabbitTest.AssemblyInfoInputs.cache
+E:\web\github\FatRabbit\FatRabbitTest\obj\Debug\netcoreapp2.1\FatRabbitTest.AssemblyInfo.cs
+E:\web\github\FatRabbit\FatRabbitTest\bin\Debug\netcoreapp2.1\FatRabbitTest.deps.json
+E:\web\github\FatRabbit\FatRabbitTest\bin\Debug\netcoreapp2.1\FatRabbitTest.runtimeconfig.json
+E:\web\github\FatRabbit\FatRabbitTest\bin\Debug\netcoreapp2.1\FatRabbitTest.runtimeconfig.dev.json
+E:\web\github\FatRabbit\FatRabbitTest\bin\Debug\netcoreapp2.1\FatRabbitTest.dll
+E:\web\github\FatRabbit\FatRabbitTest\bin\Debug\netcoreapp2.1\FatRabbitTest.pdb
+E:\web\github\FatRabbit\FatRabbitTest\bin\Debug\netcoreapp2.1\FatRabbit.Pangolin.dll
+E:\web\github\FatRabbit\FatRabbitTest\bin\Debug\netcoreapp2.1\FatRabbit.Pangolin.pdb
+E:\web\github\FatRabbit\FatRabbitTest\obj\Debug\netcoreapp2.1\FatRabbitTest.csproj.CopyComplete
+E:\web\github\FatRabbit\FatRabbitTest\obj\Debug\netcoreapp2.1\FatRabbitTest.dll
+E:\web\github\FatRabbit\FatRabbitTest\obj\Debug\netcoreapp2.1\FatRabbitTest.pdb

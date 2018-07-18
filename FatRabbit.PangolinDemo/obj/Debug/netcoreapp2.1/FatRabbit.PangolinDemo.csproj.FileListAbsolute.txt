@@ -1,0 +1,14 @@
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\bin\Debug\netcoreapp2.1\FatRabbit.PangolinDemo.deps.json
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\bin\Debug\netcoreapp2.1\FatRabbit.PangolinDemo.runtimeconfig.json
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\bin\Debug\netcoreapp2.1\FatRabbit.PangolinDemo.runtimeconfig.dev.json
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\bin\Debug\netcoreapp2.1\FatRabbit.PangolinDemo.dll
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\bin\Debug\netcoreapp2.1\FatRabbit.PangolinDemo.pdb
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\bin\Debug\netcoreapp2.1\FatRabbit.Pangolin.dll
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\bin\Debug\netcoreapp2.1\FatRabbit.Pangolin.pdb
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\obj\Debug\netcoreapp2.1\FatRabbit.PangolinDemo.csprojAssemblyReference.cache
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\obj\Debug\netcoreapp2.1\FatRabbit.PangolinDemo.csproj.CoreCompileInputs.cache
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\obj\Debug\netcoreapp2.1\FatRabbit.PangolinDemo.AssemblyInfoInputs.cache
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\obj\Debug\netcoreapp2.1\FatRabbit.PangolinDemo.AssemblyInfo.cs
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\obj\Debug\netcoreapp2.1\FatRabbit.PangolinDemo.csproj.CopyComplete
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\obj\Debug\netcoreapp2.1\FatRabbit.PangolinDemo.dll
+E:\web\github\FatRabbit\FatRabbit.PangolinDemo\obj\Debug\netcoreapp2.1\FatRabbit.PangolinDemo.pdb
